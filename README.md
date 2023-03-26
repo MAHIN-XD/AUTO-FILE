@@ -1,5 +1,5 @@
 # AUTO-FILE
-This tools File Make Tools And No need Cookie
+This Tools 32Bit and 64 Bit support
 
 # Run This Command
        git clone https://github.com/MAHIN-XD/AUTO-FILE
